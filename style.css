@@ -10,6 +10,8 @@ body {
   flex-direction: column;
   padding: 5px ;
   margin: auto;
+  max-width: 1200px;
+  max-height: 600px;
 }
 
 .header {
